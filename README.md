@@ -24,8 +24,8 @@
         - **PR 제목 컨벤션**: `[{미션}] {이름} 미션 제출합니다.`
             - 예) `[다리 건너기] 김선호 미션 제출합니다.`
 4. **회고 (선택)**
-   - 미션 제출이 끝나고, 18:00~19:00 약 1시간 동안 회고를 진행합니다.
-   - 난이도, 소감, 인사이트 공유 등 자유롭게 대화하는 시간입니다.
+    - 미션 제출이 끝나고, 18:00~19:00 약 1시간 동안 회고를 진행합니다.
+    - 난이도, 소감, 인사이트 공유 등 자유롭게 대화하는 시간입니다.
 5. **미션 리팩토링 (선택)**
     - 코드 리뷰를 받기 전, 미션을 리팩토링할 수 있습니다.
     - 리팩토링 시, 브랜치를 새로 파서 리팩토링을 진행해주세요.
@@ -58,9 +58,9 @@
 
 ## 스터디 일정
 
-| 회차 | 날짜 및 시간                  | 미션                                                                           | PR                                                                      |
-|----|--------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| 1  | 23.11.26 (일) 13:00-18:00 | [다리 건너기](https://github.com/Study-Steady/java-bridge)                        | [PR](https://github.com/Study-Steady/java-bridge/pulls)                 |
-| 2  | 23.12.03 (일) 13:00-18:00 | [점심 메뉴 추천](https://github.com/Study-Steady/java-menu)                        | [PR](https://github.com/Study-Steady/java-menu/pulls)                   |
-| 3  | 23.12.10 (일) 13:00-18:00 | [페어매칭관리 애플리케이션](https://github.com/Study-Steady/java-pairmatching-precourse) | [PR](https://github.com/Study-Steady/java-pairmatching-precourse/pulls) | 
+| 회차 | 날짜 및 시간                  | 미션                                                                           | PR                                                                      | 리뷰 링크                                                                         |
+|----|--------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| 1  | 23.11.26 (일) 13:00-18:00 | [다리 건너기](https://github.com/Study-Steady/java-bridge)                        | [PR](https://github.com/Study-Steady/java-bridge/pulls)                 | [#1](https://github.com/Study-Steady/Mission-Based-CodeReview-Study/issues/1) |
+| 2  | 23.12.03 (일) 13:00-18:00 | [점심 메뉴 추천](https://github.com/Study-Steady/java-menu)                        | [PR](https://github.com/Study-Steady/java-menu/pulls)                   | [#2](https://github.com/Study-Steady/Mission-Based-CodeReview-Study/issues/2) |
+| 3  | 23.12.10 (일) 13:00-18:00 | [페어매칭관리 애플리케이션](https://github.com/Study-Steady/java-pairmatching-precourse) | [PR](https://github.com/Study-Steady/java-pairmatching-precourse/pulls) | [#3](https://github.com/Study-Steady/Mission-Based-CodeReview-Study/issues/3) | 
 
